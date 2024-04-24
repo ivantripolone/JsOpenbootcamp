@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "\"primer proyecto js openbootcamp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivantripolone/JsOpenbootcamp.git"
+  },
+  "author": "Ivan Tripolone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivantripolone/JsOpenbootcamp/issues"
+  },
+  "homepage": "https://github.com/ivantripolone/JsOpenbootcamp#readme"
+}
